@@ -12,7 +12,7 @@ console.log(myUrl.hostname);
 // Pathname
 console.log(myUrl.pathname);
 // Serialize query
-console.log(myUrl.search)
+console.log(myUrl.search);
 // Params object
 console.log(myUrl.searchParams);
 // Add param
